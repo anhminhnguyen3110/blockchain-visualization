@@ -1,6 +1,7 @@
 Research paper:
 [COS10009_Research_Project.pdf](https://github.com/emyeucanha5/blockchain-visualization/files/9122273/COS10009_Research_Project.pdf)
 
+SHA256 algorithm implementation without using external library
 ![image](https://user-images.githubusercontent.com/57170354/179262996-5a2244b9-266c-43e9-bf9d-76eef6e3571c.png)
 
 Valid block
